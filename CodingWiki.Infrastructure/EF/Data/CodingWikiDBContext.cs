@@ -21,6 +21,7 @@ namespace CodingWiki.Infrastructure.EF.Data
         }
 
         public virtual DbSet<Book> Books { get; set; }
+        public virtual DbSet<Genre> Genres { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

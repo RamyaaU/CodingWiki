@@ -1,7 +1,14 @@
+using CodingWiki.Infrastructure.EF.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//registering db context
+builder.Services.AddDbContext<CodingWikiDBContext>(options => options.UseSqlServer(
+    builder.Configuration.GetConnectionString("DbConnection")));
 
 var app = builder.Build();
 

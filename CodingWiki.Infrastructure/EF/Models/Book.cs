@@ -9,8 +9,8 @@ namespace CodingWiki.Infrastructure.EF.Models
     public class Book
     {
         public int BookId { get; set; }
-        public int Title { get; set; }
-        public int ISBN { get; set; }
-        public int Price { get; set; }
+        public string Title { get; set; }
+        public string ISBN { get; set; }
+        public decimal Price { get; set; }
     }
 }

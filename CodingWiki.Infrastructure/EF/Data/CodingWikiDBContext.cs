@@ -22,9 +22,9 @@ namespace CodingWiki.Infrastructure.EF.Data
 
         public virtual DbSet<Book> Books { get; set; }
 
-        //protected override void OnConfiguring (DbContextOptionsBuilder optionsBuilder)
-        //{
-        //    optionsBuilder.UseSqlServer("");
-        //}
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Book>().Property(u => u.Price).HasPrecision(10, 5);
+        }
     }
 }

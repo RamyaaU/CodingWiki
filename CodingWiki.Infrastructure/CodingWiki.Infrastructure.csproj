@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="EF\Data\" />
-    <Folder Include="EF\Models\" />
   </ItemGroup>
 
 </Project>

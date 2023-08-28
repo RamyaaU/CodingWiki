@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "CodingWiki/1.0.0": {
+        "dependencies": {
+          "CodingWiki.Infrastructure": "1.0.0"
+        },
         "runtime": {
           "CodingWiki.dll": {}
+        }
+      },
+      "CodingWiki.Infrastructure/1.0.0": {
+        "runtime": {
+          "CodingWiki.Infrastructure.dll": {}
         }
       }
     }
   },
   "libraries": {
     "CodingWiki/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodingWiki.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -6,6 +6,8 @@ C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\bin\Debug\net6.0
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\bin\Debug\net6.0\CodingWiki.runtimeconfig.json
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\bin\Debug\net6.0\CodingWiki.dll
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\bin\Debug\net6.0\CodingWiki.pdb
+C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\bin\Debug\net6.0\CodingWiki.Infrastructure.dll
+C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\bin\Debug\net6.0\CodingWiki.Infrastructure.pdb
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\obj\Debug\net6.0\CodingWiki.csproj.AssemblyReference.cache
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\obj\Debug\net6.0\CodingWiki.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\obj\Debug\net6.0\CodingWiki.AssemblyInfoInputs.cache
@@ -19,6 +21,7 @@ C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\obj\Debug\net6.0
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\obj\Debug\net6.0\scopedcss\bundle\CodingWiki.styles.css
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\obj\Debug\net6.0\scopedcss\projectbundle\CodingWiki.bundle.scp.css
+C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\obj\Debug\net6.0\CodingWiki.csproj.CopyComplete
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\obj\Debug\net6.0\CodingWiki.dll
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\obj\Debug\net6.0\refint\CodingWiki.dll
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\obj\Debug\net6.0\CodingWiki.pdb

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "CodingWiki.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CodingWiki.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CodingWiki.Infrastructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CodingWiki.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../CodingWiki.Infrastructure/CodingWiki.Infrastructure.csproj",
+      "msbuildProject": "../CodingWiki.Infrastructure/CodingWiki.Infrastructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "CodingWiki.Infrastructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\admin\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\admin\\source\\repos\\CodingWiki_EF\\CodingWiki\\CodingWiki.Infrastructure\\CodingWiki.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\admin\\source\\repos\\CodingWiki_EF\\CodingWiki\\CodingWiki.Infrastructure\\CodingWiki.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\bin\Debug\net6.0\CodingWiki.Infrastructure.deps.json
+C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\bin\Debug\net6.0\CodingWiki.Infrastructure.dll
+C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\bin\Debug\net6.0\CodingWiki.Infrastructure.pdb
+C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\obj\Debug\net6.0\CodingWiki.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\obj\Debug\net6.0\CodingWiki.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\obj\Debug\net6.0\CodingWiki.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\obj\Debug\net6.0\CodingWiki.Infrastructure.AssemblyInfo.cs
+C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\obj\Debug\net6.0\CodingWiki.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\obj\Debug\net6.0\CodingWiki.Infrastructure.dll
+C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\obj\Debug\net6.0\refint\CodingWiki.Infrastructure.dll
+C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\obj\Debug\net6.0\CodingWiki.Infrastructure.pdb
+C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\obj\Debug\net6.0\ref\CodingWiki.Infrastructure.dll

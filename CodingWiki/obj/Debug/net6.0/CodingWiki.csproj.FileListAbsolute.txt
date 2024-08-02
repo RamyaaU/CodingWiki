@@ -61,3 +61,6 @@ C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\bin\Debug\net6.0
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\bin\Debug\net6.0\Humanizer.dll
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ramyashree.u\Ramya'sCodeBase\CodingWiki\CodingWiki\obj\Debug\net6.0\CodingWiki.dll
+C:\Users\ramyashree.u\Ramya'sCodeBase\CodingWiki\CodingWiki\obj\Debug\net6.0\refint\CodingWiki.dll
+C:\Users\ramyashree.u\Ramya'sCodeBase\CodingWiki\CodingWiki\obj\Debug\net6.0\CodingWiki.pdb

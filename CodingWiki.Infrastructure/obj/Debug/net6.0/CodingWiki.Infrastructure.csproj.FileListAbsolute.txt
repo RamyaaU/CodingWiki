@@ -12,3 +12,6 @@ C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\o
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\obj\Debug\net6.0\ref\CodingWiki.Infrastructure.dll
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\bin\Debug\net6.0\CodingWiki.Infrastructure.runtimeconfig.json
 C:\Users\admin\source\repos\CodingWiki_EF\CodingWiki\CodingWiki.Infrastructure\obj\Debug\net6.0\CodingWiki.Infrastructure.genruntimeconfig.cache
+C:\Users\ramyashree.u\Ramya'sCodeBase\CodingWiki\CodingWiki.Infrastructure\obj\Debug\net6.0\CodingWiki.Infrastructure.dll
+C:\Users\ramyashree.u\Ramya'sCodeBase\CodingWiki\CodingWiki.Infrastructure\obj\Debug\net6.0\refint\CodingWiki.Infrastructure.dll
+C:\Users\ramyashree.u\Ramya'sCodeBase\CodingWiki\CodingWiki.Infrastructure\obj\Debug\net6.0\CodingWiki.Infrastructure.pdb

@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingWiki_Web", "CodingWiki_Web\CodingWiki_Web.csproj", "{5F230369-D97D-4EC6-B2B4-3C8EB3D88DC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingWiki_Web", "CodingWiki_Web\CodingWiki_Web.csproj", "{5F230369-D97D-4EC6-B2B4-3C8EB3D88DC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingWiki_DataAccess", "CodingWiki_DataAccess\CodingWiki_DataAccess.csproj", "{846FC817-1316-403F-BFD6-5DB6B899CEB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingWiki_Model", "CodingWiki_Model\CodingWiki_Model.csproj", "{47EA9259-833C-45E2-A3B2-30364A97D6F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{5F230369-D97D-4EC6-B2B4-3C8EB3D88DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F230369-D97D-4EC6-B2B4-3C8EB3D88DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F230369-D97D-4EC6-B2B4-3C8EB3D88DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846FC817-1316-403F-BFD6-5DB6B899CEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846FC817-1316-403F-BFD6-5DB6B899CEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846FC817-1316-403F-BFD6-5DB6B899CEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846FC817-1316-403F-BFD6-5DB6B899CEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47EA9259-833C-45E2-A3B2-30364A97D6F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EA9259-833C-45E2-A3B2-30364A97D6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EA9259-833C-45E2-A3B2-30364A97D6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EA9259-833C-45E2-A3B2-30364A97D6F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
